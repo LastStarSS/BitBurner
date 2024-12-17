@@ -6,7 +6,7 @@
 #### Added get-max-money.js:
 - Argument: `hostname`
 - Function:
-  1. Prints the max amount of money a server can have
+1. Prints the max amount of money a server can have
 - Unit is in million $ since it automatically divides the amount by 1,000,000 to help with reading the numbers
 - Just messing around with the scripts, I will develop this later.
 #### Added GRASS.js
